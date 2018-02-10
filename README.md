@@ -1,2 +1,2 @@
 # CookBook
-This repository contains recipes that I love to cook.
+This repository contains recipes that everyone can easily cook.
