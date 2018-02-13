@@ -1,2 +1,2 @@
-# CookBook
-This repository contains recipes that everyone can easily cook.
+# Lemniscate
+If you still do not know what a lemniscate is, it's time to change it!
